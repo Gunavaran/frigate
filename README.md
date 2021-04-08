@@ -2,12 +2,12 @@
 Frigate is a tool for counting and querying k-mers. Its emphasis is on small k values, typically k < 20;
 ### Installation 
 Current version of Frigate can run only on Linux operating system. support for other operating systems will incorporated in the future versions. To install Frigate:
-1. Download the source files
+1. Download the source files<br/>
 `git clone https://github.com/Gunavaran/frigate.git` 
 
-2. To compile
+2. To compile<br/>
 `cd frigate`<br/>
-`cmake .`
+`cmake .`<br/>
 `make`
 ### Usage
 Frigate can perform FOUR operations:
