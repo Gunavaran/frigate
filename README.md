@@ -6,7 +6,7 @@ Current version of Frigate can run only on Linux operating system. support for o
 `git clone https://github.com/Gunavaran/frigate.git` 
 
 2. To compile
-`cd frigate`
+`cd frigate`<br/>
 `cmake .`
 `make`
 ### Usage
