@@ -2,7 +2,6 @@
 // Created by gunavaran on 4/7/21.
 //
 
-#include <bits/types/FILE.h>
 #include "query.h"
 #include <stdio.h>
 #include <stdlib.h>
