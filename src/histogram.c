@@ -2,7 +2,6 @@
 // Created by gunavaran on 4/6/21.
 //
 
-#include <bits/types/FILE.h>
 #include <stdlib.h>
 #include "histogram.h"
 #include "frigate.h"
